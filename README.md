@@ -26,8 +26,8 @@ This project is built to compile and execute inside the official `ostrack:core` 
    ```
 
 ## 🎥 Submission Videos
-* **Recorded Demo (Max 5 mins):** [INSERT YOUTUBE/DRIVE LINK HERE]
-* **Unedited Public Test Run:** [INSERT YOUTUBE/DRIVE LINK HERE]
+* **Recorded Demo (Max 5 mins):** https://drive.google.com/file/d/1BSmdcngcjYtZ6qAOiGzNYumNFVYk8tQZ/view?usp=drive_link
+* **Unedited Public Test Run:** https://drive.google.com/file/d/1BSmdcngcjYtZ6qAOiGzNYumNFVYk8tQZ/view?usp=drive_link
 
 ## 📦 Problem-Specific Artifacts Included
 * `libcontextchaos.a` - Prebuilt static library binary (Fallback).
